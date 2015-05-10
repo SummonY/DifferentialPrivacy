@@ -1,4 +1,5 @@
-DifferentialPrivacy
-===================
+# 差分隐私
+    采用Java语言，基于Diffie-Hellman Key Exchange算法和AES256算法,实现一个差分隐私保护协议，用于保护用户信息的隐私安全。
 
-Differential privacy protection encrypted and decrypted with AES256 programmed in Java.
+## Diffie-Hellman Key Exchange
+    简称D-H,是一种公开密钥加密中的安全协议。它可以让双方在完全没有对方任何预先信息的条件下通过不安全信道建立起一个密钥，这个密钥可以在后续的通讯中作为对称密钥来加密通讯内容。
